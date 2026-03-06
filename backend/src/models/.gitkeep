@@ -1,0 +1,5 @@
+// Mongoose models placeholder
+// Add Mongoose schema/model files here.
+// Example: Product.ts, Category.ts, Supplier.ts, Order.ts
+
+export {};
